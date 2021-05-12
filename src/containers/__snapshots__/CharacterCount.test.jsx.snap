@@ -1,0 +1,308 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test suite renders a list of characters 1`] = `
+<ul
+  aria-label="characters"
+>
+  <li>
+    <img
+      alt="Admiral"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/Admiral_NH.png/revision/latest?cb=20200802081138"
+    />
+    <p>
+      Admiral
+    </p>
+    <p>
+      イッテツ Ittetsu
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Agent S"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/Agent_S_NH.png/revision/latest?cb=20200719092526"
+    />
+    <p>
+      Agent S
+    </p>
+    <p>
+      2ごう Ni Gō
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Agnes"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/Agnes_NH.png/revision/latest?cb=20200804230432"
+    />
+    <p>
+      Agnes
+    </p>
+    <p>
+      アグネス Agunesu
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Al"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/Al_NH.png/revision/latest?cb=20200802150354"
+    />
+    <p>
+      Al
+    </p>
+    <p>
+      たもつ Tamotsu
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Alfonso"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/Alfonso_NH.png/revision/latest?cb=20200817164717"
+    />
+    <p>
+      Alfonso
+    </p>
+    <p>
+      アルベルト Aruberuto
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Alice"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/Alice_NH.png/revision/latest?cb=20200803181400"
+    />
+    <p>
+      Alice
+    </p>
+    <p>
+      メルボルン Meruborun
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Ankha"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/Ankha_NH.png/revision/latest?cb=20200817172044"
+    />
+    <p>
+      Ankha
+    </p>
+    <p>
+      ナイル Nairu
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Alli"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/Alli_NH.png/revision/latest?cb=20200802061731"
+    />
+    <p>
+      Alli
+    </p>
+    <p>
+      クロコ Kuroko
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Anicotti"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/8/80/Anicotti_NH.png/revision/latest?cb=20200802164003"
+    />
+    <p>
+      Anicotti
+    </p>
+    <p>
+      ラザニア Razania
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Angus"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/Angus_NH.png/revision/latest?cb=20200802083758"
+    />
+    <p>
+      Angus
+    </p>
+    <p>
+      セルバンテス Serubantesu
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Amelia"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/Amelia_NH.png/revision/latest?cb=20200817171545"
+    />
+    <p>
+      Amelia
+    </p>
+    <p>
+      アンデス Andesu
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Annalisa"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/f/f0/Annalisa_NH.png/revision/latest?cb=20200802063308"
+    />
+    <p>
+      Annalisa
+    </p>
+    <p>
+      みやび Miyabi
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Antonio"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/Antonio_NH.png/revision/latest?cb=20200802063352"
+    />
+    <p>
+      Antonio
+    </p>
+    <p>
+      マコト Makoto
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Annalise"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/Annalise_NH.png/revision/latest?cb=20200802153943"
+    />
+    <p>
+      Annalise
+    </p>
+    <p>
+      シルブプレ Shirubupure
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Anabelle"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/d8/Anabelle_NH.png/revision/latest?cb=20200802063200"
+    />
+    <p>
+      Anabelle
+    </p>
+    <p>
+      あるみ Arumi
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Apollo"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/Apollo_NH.png/revision/latest?cb=20200719092927"
+    />
+    <p>
+      Apollo
+    </p>
+    <p>
+      アポロ Aporo
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Anchovy"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/Anchovy_NH.png/revision/latest?cb=20200802081231"
+    />
+    <p>
+      Anchovy
+    </p>
+    <p>
+      アンチョビ Anchobi
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Apple"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/Apple_NH.png/revision/latest?cb=20200802151508"
+    />
+    <p>
+      Apple
+    </p>
+    <p>
+      アップル Appuru
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Astrid"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/Astrid_NH.png/revision/latest?cb=20200802154954"
+    />
+    <p>
+      Astrid
+    </p>
+    <p>
+      キッズ Kizzu
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Audie"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/Audie_NH.png/revision/latest?cb=20200829012735"
+    />
+    <p>
+      Audie
+    </p>
+    <p>
+      モニカ Monika
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Aurora"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/Aurora_NH.png/revision/latest?cb=20200202215217"
+    />
+    <p>
+      Aurora
+    </p>
+    <p>
+      オーロラ Ōrora
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Ava"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/Ava_NH.png/revision/latest?cb=20200609055741"
+    />
+    <p>
+      Ava
+    </p>
+    <p>
+      ドミグラ Domigura
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Avery"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/Avery_NH.png/revision/latest?cb=20200608222354"
+    />
+    <p>
+      Avery
+    </p>
+    <p>
+      クスケチャ Kusukecha
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Baabara"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/Baabara_NH.png/revision/latest?cb=20200802165552"
+    />
+    <p>
+      Baabara
+    </p>
+    <p>
+      トロワ Torowa
+    </p>
+  </li>
+  <li>
+    <img
+      alt="Barold"
+      src="https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/Barold_NH.png/revision/latest?cb=20200802141140"
+    />
+    <p>
+      Barold
+    </p>
+    <p>
+      ニッシー Nisshī
+    </p>
+  </li>
+</ul>
+`;
