@@ -1,6 +1,13 @@
 import React from 'react';
-import CharacterContainer from '../../containers/CharacterContainer';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import CharacterListContainer from '../../containers/CharacterListContainer';
+import CharacterDetailContainer from '../../containers/CharacterDetailContainer';
 
-export default function App() {
-  return <CharacterContainer />;
-}
+export default () => (
+  <Router>
+    <Switch>
+      <Route exact path="/" component={CharacterListContainer} />
+      <Route path="/:id" component={CharacterDetailContainer} />
+    </Switch>
+  </Router>
+);

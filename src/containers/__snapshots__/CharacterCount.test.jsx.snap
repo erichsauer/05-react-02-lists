@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`test suite renders a list of characters 1`] = `
+exports[`character list comtainer renders a list of characters 1`] = `
 <ul
   aria-label="characters"
 >

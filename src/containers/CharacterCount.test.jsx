@@ -1,10 +1,10 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
-import CharacterContainer from './CharacterContainer';
+import CharacterListContainer from './CharacterListContainer';
 
-describe('test suite', () => {
+describe('character list comtainer', () => {
   it('renders a list of characters', async () => {
-    render(<CharacterContainer />);
+    render(<CharacterListContainer />);
 
     screen.getByText('please hold...');
 
