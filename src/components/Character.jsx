@@ -1,12 +1,13 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types';
 
-const Character = ({ image, name, japaneseName }) => (
-  <>
+const Character = ({ id, image, name, japaneseName }) => (
+  <Link to={`/${id}`}>
     <img style={{ width: 200 }} src={image} alt={name} />
     <p>{name}</p>
     <p>{japaneseName}</p>
-  </>
+  </Link>
 );
 
 Character.propTypes = {

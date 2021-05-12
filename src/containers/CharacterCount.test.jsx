@@ -2,7 +2,7 @@ import React from 'react';
 import { render, screen } from '@testing-library/react';
 import CharacterListContainer from './CharacterListContainer';
 
-describe('character list comtainer', () => {
+describe('character list container', () => {
   it('renders a list of characters', async () => {
     render(<CharacterListContainer />);
 

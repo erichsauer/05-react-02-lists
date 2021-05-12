@@ -18,6 +18,15 @@ const CharacterDetail = ({
   );
 };
 
-CharacterDetail.propTypes = {};
+CharacterDetail.propTypes = {
+  character: PropTypes.shape({
+    image: PropTypes.string.isRequired,
+    name: PropTypes.string.isRequired,
+    japaneseName: PropTypes.string.isRequired,
+    skill: PropTypes.string.isRequired,
+    goal: PropTypes.string.isRequired,
+    birthday: PropTypes.string.isRequired,
+  }),
+};
 
 export default CharacterDetail;
