@@ -39,6 +39,6 @@ describe('character detail container', () => {
       </MemoryRouter>
     );
     screen.getByText('please hold...');
-    const img = await screen.findAllByAltText('Admiral');
+    await screen.findAllByAltText('Admiral');
   });
 });
