@@ -21,6 +21,6 @@ export default class CharacterDetailContainer extends Component {
 
     if (loading) return <div>please hold...</div>;
 
-    return <CharacterDetail character={character} />;
+    return <CharacterDetail {...character} />;
   }
 }

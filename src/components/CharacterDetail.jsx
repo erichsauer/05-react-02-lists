@@ -3,7 +3,12 @@ import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types';
 
 const CharacterDetail = ({
-  character: { image, name, japaneseName, skill, goal, birthday },
+  image,
+  name,
+  japaneseName,
+  skill,
+  goal,
+  birthday,
 }) => {
   return (
     <>
